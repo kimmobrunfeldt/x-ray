@@ -32,7 +32,7 @@
     "is-url": "~1.2.0",
     "isobject": "~2.0.0",
     "object-assign": "~4.0.1",
-    "x-ray-crawler": "~2.0.1",
+    "x-ray-crawler": "kimmobrunfeldt/x-ray-crawler",
     "x-ray-parse": "~1.0.1"
   },
   "devDependencies": {
